@@ -1,0 +1,5 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+Etiquette		TAR	94	nouvelle taille enregistrement : 94
+Etiquette	Code	CLEN*		la rubrique Code est maintenant une clé
+Etiquette	Designation	CLEN*		la rubrique Designation est maintenant une clé
+Etiquette	NbEtiq	RUB-		la rubrique NbEtiq est supprimée
